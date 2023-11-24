@@ -1,6 +1,8 @@
 const Header = () => {
     return (
-        <h1>Projeto com Props</h1>
+        <div className="h1">
+            <h1>Projeto com Props</h1>
+        </div>
     );
 }
 
